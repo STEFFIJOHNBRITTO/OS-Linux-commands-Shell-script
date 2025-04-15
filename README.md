@@ -1,3 +1,6 @@
+# Name : STEFFI J
+# Register number : 212224220107
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
