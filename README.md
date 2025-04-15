@@ -830,4 +830,6 @@ done
 ``` 
 $ chmod 755 untiltest.sh
  
- ![Screenshot 2024-03-01
+ # RESULT
+
+ The output of the given program is executed successfully
